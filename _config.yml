@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Bianca Liebhaber | Senior Data Analyst
+title: DAN | Science, Screens, and Storylines
 
 # Your name to show in the footer
-author: Bianca Liebhaber | Senior Data Analyst
+author: DAN | Science, Screens, and Storylines
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,10 +23,10 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Projects: "projects"
-  Resources:
-    - LinkedIn: "https://www.linkedin.com/in/biancaliebhaber"
-    - Tableau Public: "https://public.tableau.com/app/profile/bianca.liebhaber/vizzes"
-    - Iron Betties Shop: "https://www.redbubble.com/people/ironbetties/shop#profile"
+  My Profiles:
+    - Trakt: "https://www.trakt.tv/users/dan873"
+    - reddit: "https://www.reddit.com/u/BowlHot6776"
+    - Telegram: "https://www.t.me/DAN873"
 
 
 ################
@@ -53,11 +53,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "bianca.liebhaber@gmail.com"
+  email: "invertlog@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: biancaliebhaber
-  linkedin: "https://www.linkedin.com/in/biancaliebhaber"
-  tableau public: "https://public.tableau.com/app/profile/bianca.liebhaber/vizzes"
+  github: danunstoppable
+  reddit: BowlHot6776
+  telegram: dan873
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,12 +94,12 @@ rss-description: Bianca Liebhaber's professional website
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://biancaliebhaber.github.io/"
+url-pretty: "https://Iam-Dan.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -114,7 +114,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
