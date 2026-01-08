@@ -10,10 +10,10 @@ before anything Im a huge Patrick Jane fan - wit sharp enough to disarm anyone, 
 
 ## Things that make me Human
 
-🌐 **Background**
-Bianca Liebhaber is a Senior Data Analyst with 8+ years of experience in Business Intelligence, built on a foundation in research science and self-taught technical expertise. She specializes in data ingestion, transformation, and visualization using tools such as SQL, Amazon Redshift, and Tableau. Bianca applies her skills to uncover actionable insights and solve complex technical challenges across business programs.
+🩺 **Profession**
+An accidental doctor who stayed for the love of it. I won’t pretend to be perfect at what I do, but I’m deeply passionate about medicine, curious by nature, and committed to growing with every patient and every mistake.
 
-📈 **Professional Motivation**
+🎥**A Taste for Film and Series**
 Driven by curiosity and a passion for learning, Bianca excels when leveraging her full analytics stack to identify trends, optimize processes, and inform strategic decision-making.
 
 🔍 **Public Speaking & Leadership**
