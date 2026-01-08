@@ -15,7 +15,7 @@ An accidental doctor who stayed for the love of it. I won’t pretend to be perf
 
 🎥 **A Taste for Film and Series**
 A cinephile at heart, with a deep appreciation for both movies and TV shows. Recommending the right watch for the right mood is my quiet superpower—whether you’re seeking comfort, chaos, or something that lingers long after the credits roll. Cinema is my safe place, where stories make sense even when the world doesn’t.
-this is my [Trakt](https://www.trakt.tv/users/dan873) profile were I rate and recommend movies and television
+this is my [Trakt](https://www.trakt.tv/users/dan873) profile where I rate and recommend movies and television
 
 💻 **Tech-Savvy**
 Tech-savvy by instinct, I have a knack for finding the right gadget at the right price. Google is my trusted accomplice, but judgment, patience, and a healthy dose of skepticism do the real work.
