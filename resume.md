@@ -2,7 +2,6 @@
 layout: page
 title: Resume
 ---
-[Printable Resume PDF](https://biancaliebhaber.github.io/Bianca_Liebhaber_Resume.pdf)
 <br/>
 
 ## Core Competencies
