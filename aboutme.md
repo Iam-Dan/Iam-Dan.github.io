@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About Me
-subtitle: Passionate Professional in Business Intelligence.
+title: Beyond the White Coat
+subtitle: Tech experiments, Curiosities & Obsessons.
 ---
 
 ![b&k.png](https://Iam-Dan.github.io/assets/img/patrick-jane-you.gif){: .mx-auto.d-block :}
 
-## About Bianca Liebhaber
+before anything Im a huge Patrick Jane fan - wit sharp enough to disarm anyone, charm to match, and the kind of calm confidence I secretly aspire to.
+
+## Things that make me Human
 
 🌐 **Background**
 Bianca Liebhaber is a Senior Data Analyst with 8+ years of experience in Business Intelligence, built on a foundation in research science and self-taught technical expertise. She specializes in data ingestion, transformation, and visualization using tools such as SQL, Amazon Redshift, and Tableau. Bianca applies her skills to uncover actionable insights and solve complex technical challenges across business programs.
