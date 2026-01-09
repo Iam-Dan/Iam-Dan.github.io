@@ -8,10 +8,14 @@ subtitle: Here’s where I drop some wisdom
 ## Financial Management
 ***
 **Investments & Insurance**<br/>
-*A chat thread analysis between a group of friends. Inspired by Spotify's annual Wrapped feature.*<br/><br/>
-**Group Chat Wrapped 2024**<br/>
-View the project on [Tableau Public](https://public.tableau.com/views/GroupChatWrapped2024_17476120121300/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-![group_chat_wrapped_2024.png](https://biancaliebhaber.github.io/assets/img/group_chat_wrapped_2024.png){: .mx-auto.d-block :}<br/><br/>
-**Group Chat Wrapped 2022-23**<br/>
-View the project on [Tableau Public](https://public.tableau.com/views/GroupChatWrappedDesktop/Cover?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).<br/>
-![group_chat_wrapped_2022_23.png](https://biancaliebhaber.github.io/assets/img/group_chat_wrapped_2022_23.png){: .mx-auto.d-block :}
+Never mix investments and insurance—insurance is for protection, not returns. All you really need is term insurance and health insurance.
+When it comes to investing, my rule is simple: start early and diversify. Time does the rest.
+here's a [Detailed Guide](https://reddit.com/r/mutualfunds/w/index) to kick start your mutual fund investing<br/><br/>
+**Buy Frugal & Buy Cheap**<br/>
+The two don’t always go together. Patience is the real superpower—wishlist high-quality things and buy only when the timing (and price) is right.
+this [forum](https://www.desidime.com) helps me track down the best deals for the best price<br/><br/>
+**Credit Cards**<br/>
+Used wisely, they’re one of the best financial tools for discounts, rewards, and savings—most people just don’t know how to make them work for them.
+A [forum](https://technofino.in/community/) that immensely helped me understand credit cards.<br/>
+
+
