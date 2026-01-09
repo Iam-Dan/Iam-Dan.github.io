@@ -15,9 +15,13 @@ subtitle: This is where I explain why I’d make a great friend.
 <br/>
 **Above-Average Financial Sense:** I’m not a financial guru, but I give practical, sensible advice. The kind that helps you think twice before spending, investing, or making impulsive decisions you’ll regret later.
 
-## Fun Facts About Me
+## Trivia Time
 ***
 *Did you know I can only swim upside down? Don’t ask me to explain… it just works.*
+
+*Sneakers and watches are my thing… and my wallet’s worst nightmare.*
+
+
 
 
 
