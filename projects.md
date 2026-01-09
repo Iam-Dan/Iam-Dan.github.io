@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dan the Genuis
+title: Dan the Genius
 subtitle: Here’s where I drop some wisdom
 ---
 ![b&k.png](https://Iam-Dan.github.io/assets/img/patrick-jane-cell.gif){: .mx-auto.d-block :}
@@ -17,5 +17,10 @@ this [Website](https://www.desidime.com) helps me track down the best deals for 
 **Credit Cards**<br/>
 Used wisely, they’re one of the best financial tools for discounts, rewards, and savings—most people just don’t know how to make them work for them.
 A [Forum](https://technofino.in/community/) that immensely helped me understand credit cards.<br/>
+
+## Digital and Tech Hacks
+***
+**How I Dodge Spam Calls**<br/>
+
 
 
