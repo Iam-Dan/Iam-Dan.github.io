@@ -10,9 +10,11 @@ Ah yes, tea… pure love in a cup.
 
 ## The Resourceful friend
 ***
-**Movie Recommendations You’ll Actually Enjoy** I take movie recommendations seriously. Whether it’s a hidden gem, a well-written series, or a comfort rewatch, I usually suggest things that make you come back and say, “That was a good one.” <br/>
-**Deal Hunter by Nature** Sales don’t scare me—I prepare for them. From online discounts to value-for-money finds, I enjoy hunting down the best deals before they disappear or turn out to be a trap <br/>
-**Above-Average Financial Sense** I’m not a financial guru, but I give practical, sensible advice. The kind that helps you think twice before spending, investing, or making impulsive decisions you’ll regret later.
+**Movie Recommendations You’ll Actually Enjoy:** I take movie recommendations seriously. Whether it’s a hidden gem, a well-written series, or a comfort rewatch, I usually suggest things that make you come back and say, “That was a good one.” 
+<br/>
+**Deal Hunter by Nature:** Sales don’t scare me—I prepare for them. From online discounts to value-for-money finds, I enjoy hunting down the best deals before they disappear or turn out to be a trap 
+<br/>
+**Above-Average Financial Sense:** I’m not a financial guru, but I give practical, sensible advice. The kind that helps you think twice before spending, investing, or making impulsive decisions you’ll regret later.
 
 ## Professional Experience
 ***
@@ -58,5 +60,5 @@ Ah yes, tea… pure love in a cup.
 
 <h2 id="education">Education</h2> 
 <hr> 
-<p><strong>Bachelor of Medicine, Bachelor of Surgery</strong><br/>
+<p><strong>Bachelor of Medicine, Bachelor of Surgery (MBBS)</strong><br/>
 Thoothukudi Government Medical College, Tuticorin , Tamil Nadu	</p>	
