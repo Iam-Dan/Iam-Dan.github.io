@@ -6,7 +6,6 @@ subtitle: This is where I explain why I’d make a great friend.
 <br/>
 ![b&k.png](https://Iam-Dan.github.io/assets/img/the-mentalist-tea.gif){: .mx-auto.d-block :}
 <p style="text-align: center;">Ah yes, tea… pure love in a cup.</p>
-<br/>
 
 ## The Resourceful friend
 ***
@@ -18,6 +17,7 @@ subtitle: This is where I explain why I’d make a great friend.
 
 ## Fun Facts About Me
 ***
+*Did you know I can only swim upside down? Don’t ask me to explain… it just works.*
 
 
 
