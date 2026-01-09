@@ -5,7 +5,7 @@ subtitle: This is where I explain why I’d make a great friend.
 ---
 <br/>
 ![b&k.png](https://Iam-Dan.github.io/assets/img/the-mentalist-tea.gif){: .mx-auto.d-block :}
-Ah yes, tea… pure love in a cup.
+<p style="text-align: center;">**Ah yes, tea… pure love in a cup.**</p>
 <br/>
 
 ## The Resourceful friend
