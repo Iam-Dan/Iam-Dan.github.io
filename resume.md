@@ -58,5 +58,5 @@ Ah yes, tea… pure love in a cup.
 
 <h2 id="education">Education</h2> 
 <hr> 
-<p><strong>B.Sc. in Molecular, Cellular and Developmental Biology</strong><br/>
-University of Washington, Seattle, WA	</p>	
+<p><strong>Bachelor of Medicine, Bachelor of Surgery</strong><br/>
+Thoothukudi Government Medical College, Tuticorin , Tamil Nadu	</p>	
