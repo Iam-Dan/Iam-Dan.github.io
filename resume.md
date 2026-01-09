@@ -61,4 +61,4 @@ Ah yes, tea… pure love in a cup.
 <h2 id="education">Education</h2> 
 <hr> 
 <p><strong>Bachelor of Medicine, Bachelor of Surgery (MBBS)</strong><br/>
-Thoothukudi Government Medical College, Tuticorin , Tamil Nadu	</p>	
+Thoothukudi Government Medical College, Tuticorin, Tamil Nadu	</p>	
