@@ -1,10 +1,16 @@
 ---
 layout: page
-title: About Me
+title: Me, Briefly
+subtitle: This is where I explain why I’d make a great friend.
 ---
 <br/>
 
-## Core Competencies
+![b&k.png](https://Iam-Dan.github.io/assets/img/the-mentalist-tea.gif){: .mx-auto.d-block :}
+
+Ah yes, tea… pure love in a cup.
+<br/>
+
+## The Resourceful friend
 ***
 **Platform & Tools:** Tableau, SQLMesh (dbt-comparable), GitHub, Snowflake, Salesforce, Apache Airflow, Google Analytics, AWS, Jira.<br/>
 **Languages:** Advanced SQL; beginner-level HTML and Python. <br/>
