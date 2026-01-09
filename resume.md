@@ -4,17 +4,15 @@ title: Me, Briefly
 subtitle: This is where I explain why I’d make a great friend.
 ---
 <br/>
-
 ![b&k.png](https://Iam-Dan.github.io/assets/img/the-mentalist-tea.gif){: .mx-auto.d-block :}
-
 Ah yes, tea… pure love in a cup.
 <br/>
 
 ## The Resourceful friend
 ***
-**Platform & Tools:** Tableau, SQLMesh (dbt-comparable), GitHub, Snowflake, Salesforce, Apache Airflow, Google Analytics, AWS, Jira.<br/>
-**Languages:** Advanced SQL; beginner-level HTML and Python. <br/>
-**Skills:** Metrics Reporting, Data Visualization, ETL Pipelines, Deep Dive Analysis, Code Reviews, Big Data, Public Speaking.
+**Movie Recommendations You’ll Actually Enjoy** I take movie recommendations seriously. Whether it’s a hidden gem, a well-written series, or a comfort rewatch, I usually suggest things that make you come back and say, “That was a good one.” <br/>
+**Deal Hunter by Nature** Sales don’t scare me—I prepare for them. From online discounts to value-for-money finds, I enjoy hunting down the best deals before they disappear or turn out to be a trap <br/>
+**Above-Average Financial Sense** I’m not a financial guru, but I give practical, sensible advice. The kind that helps you think twice before spending, investing, or making impulsive decisions you’ll regret later.
 
 ## Professional Experience
 ***
