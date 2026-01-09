@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Science, Screens, and Storylines
+title: DAN | Curiously Versatile 
 
 # Your name to show in the footer
-author: DAN | Science, Screens, and Storylines
+author: Science, Screens, and Storylines
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -134,7 +134,7 @@ navbar-var-length: false
 
 #navbar-col: "#EAEAEA"
 navbar-text-col: "#c97b26"
-#navbar-border-col: "#DDDDDD"
+navbar-border-col: "#DDDDDD"
 #page-col: "#FFFFFF"
 text-col: "#242425"
 link-col: "#3ec3e0"
