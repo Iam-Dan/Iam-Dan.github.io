@@ -21,6 +21,13 @@ A [Forum](https://technofino.in/community/) that immensely helped me understand 
 ## Digital and Tech Hacks
 ***
 **How I Dodge Spam Calls**<br/>
+Download and register for [TRAI DND](https://play.google.com/store/apps/details?id=trai.gov.in.dnd) app,file a complaint for every spam call, at least a month and watch thier numbers disappear.
+Somewhere, a spammer hesitates before dialing you. Trust me this actually works.<br/><br/>
+**Trust Issues? Ask a Geek**<br/>
+Skip influencer hype and sponsored reviews.
+Instead, hang out in developer and [tech-enthusiast forums](https://techenclave.com/) where people actually use the gadgets they recommend.<br/>
+Bonus: when these folks upgrade, they sell their old gear—well-maintained, fairly priced, and usually cared for like a pet.
+Great advice, honest reviews, and pre-owned electronics that don’t feel like a gamble.
 
 
 
