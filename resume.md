@@ -5,7 +5,7 @@ subtitle: This is where I explain why I’d make a great friend.
 ---
 <br/>
 ![b&k.png](https://Iam-Dan.github.io/assets/img/the-mentalist-tea.gif){: .mx-auto.d-block :}
-<p style="text-align: center;">**Ah yes, tea… pure love in a cup.**</p>
+<p style="text-align: center;">Ah yes, tea… pure love in a cup.</p>
 <br/>
 
 ## The Resourceful friend
@@ -16,45 +16,8 @@ subtitle: This is where I explain why I’d make a great friend.
 <br/>
 **Above-Average Financial Sense:** I’m not a financial guru, but I give practical, sensible advice. The kind that helps you think twice before spending, investing, or making impulsive decisions you’ll regret later.
 
-## Professional Experience
+## Fun Facts About Me
 ***
-<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/pitchbook_logo.png">
- &nbsp; &nbsp;<b>PitchBook Data</b>, Seattle, WA <br/> 
- &nbsp; &nbsp;May 2024 - Present<br/> 
- &nbsp; &nbsp;<i>Senior Data Analyst</i>
- <br/>
- <br/> 
-<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/barberent.jpg">
- &nbsp; &nbsp;<b>Barber Consulting Group</b>, Redmond, WA <br/> 
- &nbsp; &nbsp;Feb 2017 - Present<br/> 
- &nbsp; &nbsp;<i>Music Programming Lead</i>
- <br/>
- <br/> 
-<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/amazon_music.png">
- &nbsp; &nbsp;<b>Amazon</b>, Seattle, WA <br/> 
- &nbsp; &nbsp;Jan 2019 - Jan 2024
- <br/> 
- <br/>
-<img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
- &nbsp; &nbsp;<i>Business Analyst II</i> <br/> 
- &nbsp; &nbsp;Dec 2021 - Jan 2024
- <br/> 
- <br/>
- <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
- &nbsp; &nbsp;<i>Business Analyst I</i> <br/> 
- &nbsp; &nbsp;Aug 2021 - Nov 2021
- <br/> 
- <br/> 
- <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/gray-vertical-line.png">
- &nbsp; &nbsp;<i>Catalog Specialist I</i> <br/> 
- &nbsp; &nbsp;Jan 2019 - Jul 2021
- <br/> 
- <br/>
- <br/> 
- <img align="left" width="75" height="75" src="https://biancaliebhaber.github.io/assets/img/medianet.jpeg">
- &nbsp;&nbsp;<b>MediaNet</b>, Seattle, WA <br/> 
- &nbsp;&nbsp;Sep 2017 - Dec 2018<br/> 
- &nbsp;&nbsp;<i>Music Content Coordinator</i>
 
 
 
