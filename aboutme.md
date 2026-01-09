@@ -27,4 +27,7 @@ I dream of travel more than I manage it, always aspiring to see the world when t
 🎮 **Stories you can Play**
 Gaming has been a constant since childhood, evolving from a pastime into a lasting interest. I’ve grown up with PlayStation—owning the PS1, PS2, PS4, and even a PSP along the way—and it remains my platform of choice. Among many great titles, Red Dead Redemption 2 stands out as a favorite, for its storytelling, depth, and the way it turns play into an experience.
 
+🏆 **Love for the Game**
+My interest in sports began with cricket, both as a player and a fan. Over time, football became my preferred game. Rather than following teams religiously, I enjoy sports for the experience, energy, and simple joy of play.
+
 <!-- carousel for linkedin recs - see progress in Bear notes under 'GitHub website' -->
